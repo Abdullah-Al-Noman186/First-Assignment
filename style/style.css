@@ -1,0 +1,257 @@
+header{
+    display: flex;
+    width: 1745px;
+}
+
+.head-img{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left:120px ;
+}
+
+.head-menu{
+    text-align: center;
+    gap: 32px;
+    display: flex;
+    margin-left: 342px;
+    margin-top: 16px;
+}
+
+.head-btn{
+    background-color: #469165;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 342px;
+    margin-top: 16px;
+}
+
+#bnr1{
+    position: relative;
+    width: 1745px;
+}
+
+.bnr1 img{
+    width: 1745px;
+    display: block;
+}
+
+.bnr1 .bnr-text{
+    position: absolute;
+   text-align: center;
+    top: 30%;
+    left:30%;
+    color: white;
+    align-items: center;
+    
+}
+
+
+.bnr-text h1{
+    font-size: 72px;
+}
+
+.bnr1-spn{
+    color: #30B868;
+}
+
+.bnr-text p{
+    margin-top: 16px;
+    margin-bottom: 32px ;
+
+}
+
+.bnr-green{
+    background-color: #469165;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+.bnr-trans{
+    background: none;
+    color: white;
+    text-decoration: none;
+    border: solid #469165 ;
+    padding: 12px 16px ;
+    gap: 16px ;
+    
+
+}
+
+.notes{
+    width: 1745px;
+}
+
+.notes .head{
+    width: 1745px;
+    text-align: center;
+    margin-bottom: 16px;
+
+}
+
+.notes .head h3{
+    font-size: 48px;
+    color: #001931 ;
+
+}
+
+.notes .head p{
+    color: #627382 ;
+   
+}
+
+.cardholder{
+    display: flex;
+    text-align: center;
+    gap: 2px ;
+    margin: 70px 130px ;
+    border-radius: 8px;
+    padding: 24px;
+   
+    
+}
+
+.card{
+    gap: 24px ;
+     box-shadow: 8px 8px  8px 8px  rgb(235, 235, 235);
+    
+}
+
+.card img{
+    background-color: #F95555 ;
+    height: 32px;
+    width: 32px;
+    align-items: center;
+    
+    object-fit: cover;
+    border-radius: 50%;
+    padding: 10px;
+    
+}
+
+.card h4{
+    font-size: 24px;
+}
+
+.card p{
+    font-size: 16px;
+    color: #627383;
+    margin: 16px 24px 70px 24px ;
+}
+
+
+#security{
+    margin: 120px;
+}
+
+.security{
+    display: flex;
+    gap: 60px;
+
+}
+
+.p1{
+    color: #469165;
+}
+
+.security-para h3{
+    font-size: 48px;
+    margin-top: 16px;
+}
+
+.security-para .p2{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382; 
+    margin-top: 16px ;
+    margin-bottom: 20px;
+}
+
+#ready{
+    margin: 120px;
+    margin-left: 120px;
+    width: 1600px;
+    margin-right: 120px;
+    
+}
+
+.think{
+    background-color: #F7F6F2;
+    padding: 80PX;
+    text-align: center;
+}
+
+.think-btn{
+     background-color: #469165;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.think h3{
+    font-size: 40px;
+
+}
+
+.think p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+}
+
+footer{
+     background: #001931;
+     margin: 0px;
+     color:  #FAFAFA;
+     padding-top: 120px ;
+      padding-left: 120px ;
+      padding-bottom: 30px;
+     width: 1600px;
+     padding-right: 120px ;
+     margin: 0px;
+
+}
+
+.link{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.Social-Links{
+    
+    text-align: center;
+
+}
+
+.Social-Links{
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.rights{
+    margin-top: 80px;
+    line-height: 30px;
+}
+
+.rights p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: lighter;
+}
